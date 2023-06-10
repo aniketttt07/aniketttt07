@@ -6,8 +6,8 @@ I am Full Stack Python Developer.
 
 *   🌍  I'm from Mumbai,India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='#'>Portfolio</a>
-*   🧠  Currently looking for a work opportunities
-*   🤝  I'm open to collaborating on interesting projects as a developer
+*   🧠  Currently enhance my skills 
+*   🤝  I'm open to collaborating on interesting projects as a developer and looking for a work opportunities
 
 
 ### Backend skills
