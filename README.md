@@ -1,12 +1,12 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aniket Pawar
 ========================================================================================================================================
 
-I am Full stack python developer.
+I am Full Stack Python Developer.
 --------------------------
 
 *   🌍  I'm from Mumbai,India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='#'>Portfolio</a>
-*   🧠  Currently looking for an opportunities
+*   🧠  Currently looking for a work opportunities
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 
