@@ -6,8 +6,8 @@ I am Full Stack Python Developer.
 
 *   🌍  I'm from Mumbai,India
 *   🖥️  See my portfolio at <a rel="noreferrer" target="_blank" href='https://aniketpawar.netlify.app'>Portfolio</a>
-*   🧠  Currently enhance my skills 
-*   🤝  I'm open to collaborating on interesting projects as a developer and looking for a work opportunities
+*   🚀  Working as a Full Stack Developer at Markytics.AI 
+*   🌱 Continuously learning and enhancing my skills in the ever-evolving tech landscape.
 
 
 ### Backend skills
